@@ -1,0 +1,32 @@
+#skill {
+  width: 100%;
+  background-color: rgb(31, 30, 30);
+  height: 400px;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+#tools {
+  width: 30%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  /* column-gap: px; */
+  flex-wrap: wrap;
+  row-gap: 30px;
+  padding: 20px;
+}
+#tools div {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+  color: white;
+  padding: 5px;
+  background-color: rgb(71, 155, 189);
+}
+h1{
+  color: white;
+}
+
