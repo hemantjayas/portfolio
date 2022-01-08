@@ -1,5 +1,4 @@
-import img1 from "./components/Proj/pulse.png"
-import img2 from "./components/Proj/health.jpg"
+
 import './App.css';
 
 import Home from './components/Home/Home';

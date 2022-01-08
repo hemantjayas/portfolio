@@ -15,7 +15,7 @@ export default function Navbar() {
         <li>Skill</li>
         <li>Project</li>
         <li>Contect</li>
-        <a href="https://drive.google.com/file/d/1DfQVOy8uxb6SM5BcvMyHbFmBAQJRYKrb/view?usp=sharing" target="_blank"><li>Resume</li></a>
+        <a href="https://drive.google.com/file/d/1DfQVOy8uxb6SM5BcvMyHbFmBAQJRYKrb/view?usp=sharing" target="_blank" rel="noreferrer"><li>Resume</li></a>
       </ul>
 
 

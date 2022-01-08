@@ -30,8 +30,8 @@ export default function Proj(props) {
 
                     </div>
                     <div className='buttons'>
-                    <a href="https://hemantjayas.github.io/HealthKart/" target="_blank"><button>Preview</button></a>
-                        <a href="https://github.com/hemantjayas/HealthKart" target="_blank"><button>Code</button></a>
+                    <a href="https://hemantjayas.github.io/HealthKart/" target="_blank" rel="noreferrer"><button>Preview</button></a>
+                        <a href="https://github.com/hemantjayas/HealthKart" target="_blank" rel="noreferrer"><button>Code</button></a>
                     </div>
                 </div>
                 <div className="final">
@@ -58,8 +58,8 @@ Pulse Pharmacy is a leading Online Pharmacy in India that offers prescription me
 
                     </div>
                     <div className='buttons'>
-                    <a href="https://hemantjayas.github.io/PulsePlus/" target="_blank"><button>Preview</button></a>
-                        <a href="https://github.com/hemantjayas/PulsePlus" target="_blank"><button>Code</button></a> 
+                    <a href="https://hemantjayas.github.io/PulsePlus/" target="_blank" rel="noreferrer"><button>Preview</button></a>
+                        <a href="https://github.com/hemantjayas/PulsePlus" target="_blank" rel="noreferrer"><button>Code</button></a> 
                     </div>
                 </div>
             </div>
