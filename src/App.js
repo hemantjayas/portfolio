@@ -12,9 +12,8 @@ import Contact from "./components/contect/Contact";
 function App() {
   return (
     <>
-      {/* <Navbar /> */}
+      <Navbar />
       <Home />
-
       <Skill />
       <Proj />
       <Contact />
