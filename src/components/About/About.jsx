@@ -5,15 +5,15 @@ export default function About() {
   return (
     <div id="about">
       <h1>About Me</h1>
-      <p>I love to create beautiful and efficient websites for users.</p>
+      <p>I Love to Create Beautiful and Efficient Websites for Users.</p>
       <p>
-        My field of Interests are building new Web Technologies, Products
+        My Field of Interests are Building new Web Technologies, Products
         and also in Areas Related to Deep Learning and Natural Launguage
         Processing.
       </p>
       <p>
         I apply my passion for developing products with
-        Node.js and Modern Javascript Library and Frameworks like React.js and
+        Node.js, Modern Javascript Library,Frameworks like React.js and
         Next.js
       </p>
      
