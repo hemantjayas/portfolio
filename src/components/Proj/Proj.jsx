@@ -4,7 +4,7 @@ import React from 'react'
 import("./Proj.css")
 export default function Proj(props) {
     return (
-        <div className='proj'>
+        <div id="project" className='proj'>
             <h1>My Recent Work</h1>
             <div className="projCont">
                 <div className="final">

@@ -4,37 +4,40 @@
   background-color: #000000;
   position: relative;
 }
-#home img{
+#home img {
   height: 100%;
   position: absolute;
   right: 0;
 }
 
-.name{
-position: absolute;
-top: 50%;
-left: 30%;
-transform: translate(-50%,-50%);
-text-align: center;
-color: lightyellow;
-width: 38%;
+.name {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: lightyellow;
+  width: 38%;
 }
 
-.name button{
-  background-color: rgb(103 58 183);
-    color: white;
-    border: 2px solid black;
-    padding: 21px;
-    font-size: 24px;
-    font-weight: bold;
-    border-radius: 5px;
-
+.name button {
+  background-color: rgb(71 155 189);
+  color: white;
+  padding: 21px;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 5px;
 }
-.name p{
+.name button:hover {
+  color: rgb(71 155 189);
+  border: 2px solid rgb(71 155 189);
+  background-color: white;
+}
+
+.name p {
   margin: 20px 0;
   font-size: 25px;
 }
-.name h1{
+.name h1 {
   margin: 20px 0;
   font-size: 45px;
 }

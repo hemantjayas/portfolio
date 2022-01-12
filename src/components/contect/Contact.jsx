@@ -1,8 +1,9 @@
 import React from 'react'
 import("./Contact.css")
+
 export default function Contact() {
     return (
-        <div className='connect'>
+        <div id='contact' className='connect'>
             <div className='container'>
             <h1>Let's Connect</h1>
             <p>Drop me a mail at <strong>hemantjayas03@gmail.com</strong></p>
@@ -15,3 +16,4 @@ export default function Contact() {
         </div>
     )
 }
+ 

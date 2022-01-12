@@ -8,8 +8,9 @@ export default function Home() {
         <div id='home'>
             <img src={img} alt="" />
             <div className='name'>
-                <h1>Hi there, I'm Hemant Kumar Jayas</h1>
-                <p>I love to create beautiful and efficient websites for my customers. I love going through the entire process with the customer from concept, to design and then development and launch</p>
+                <h1>Hi there!</h1>
+                <h1>I'm HEMANT KUMAR JAYAS</h1>
+                <h1>A Full-Stack Web Developer</h1>
                 <a href="https://drive.google.com/file/d/1DfQVOy8uxb6SM5BcvMyHbFmBAQJRYKrb/view?usp=sharing" target="_blank" rel="noreferrer"><button>Download CV</button></a>
             </div>
         </div>
