@@ -12,7 +12,7 @@ export default function About() {
         Processing.
       </p>
       <p>
-        I apply my passion for developing products with
+        I Apply my Passion for Developing Products with
         Node.js, Modern Javascript Library,Frameworks like React.js and
         Next.js
       </p>
