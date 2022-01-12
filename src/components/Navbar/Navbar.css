@@ -11,7 +11,6 @@
   color: white;
   background-color: rgb(48, 47, 47);
 }
-
 .navbar ul {
   display: flex;
   list-style-type: none;
@@ -52,6 +51,6 @@
   }
   .fa-bars {
     font-size: 25px;
-    display: block;
+    display: b;
   }
 }

@@ -1,4 +1,4 @@
-import hem from "./hemant.png"
+
 import Link from "react-scroll/modules/components/Link";
 import React from "react";
 import("./Navbar.css");
