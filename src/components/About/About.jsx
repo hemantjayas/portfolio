@@ -13,7 +13,7 @@ export default function About() {
       </p>
       <p>
         I Apply my Passion for Developing Products with
-        Node.js, Modern Javascript Library,Frameworks like React.js and
+        Node.js, Modern Javascript Library, Frameworks like React.js and
         Next.js
       </p>
      
