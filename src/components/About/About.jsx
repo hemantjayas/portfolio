@@ -16,12 +16,8 @@ export default function About() {
         Node.js and Modern Javascript Library and Frameworks like React.js and
         Next.js
       </p>
-      <p>Apart from coding I love to do:</p>
-      <ul>
-        <li>Badminton</li>
-        <li>Listening Music</li>
-        <li>Running</li>
-      </ul>
+     
+      
     </div>
   );
 }

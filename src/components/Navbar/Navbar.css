@@ -27,6 +27,10 @@
 #checkbox {
   display: none;
 }
+.fa-bars{
+    display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .navbar {
     padding: 0 20px;
@@ -41,10 +45,12 @@
     width: 50%;
     transition: all 0.5s linear;
   }
+
   #checkbox:checked ~ .nav-ul {
     left: 0;
   }
-  .fa-bars{
-      font-size: 25px;
+  .fa-bars {
+    font-size: 25px;
+    display: block;
   }
 }
