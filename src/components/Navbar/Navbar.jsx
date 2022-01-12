@@ -7,14 +7,28 @@ export default function Navbar() {
       <div className="logo">
         <h1>Hemant</h1>
       </div>
-
-      <ul>
-       
-        <Link to="home" smooth={true} duration={1000} ><li>Home</li></Link>
-        <Link to="about" smooth={true} duration={1000} ><li>About</li></Link>
-        <Link to="skill" smooth={true} duration={1000}><li>Skill</li></Link>
-        <Link to="skill" smooth={true} duration={1000}><li>Project</li></Link>
-        <Link to="contact" smooth={true} duration={1000}><li>Contact</li></Link>
+      <input id="checkbox" type="checkbox" />
+      <div id="bar">
+        <label htmlFor="checkbox">
+          <i class="fas fa-bars"></i>
+        </label>
+      </div>
+      <ul className="nav-ul">
+        <Link to="home" smooth={true} duration={1000}>
+          <li>Home</li>
+        </Link>
+        <Link to="about" smooth={true} duration={1000}>
+          <li>About</li>
+        </Link>
+        <Link to="skill" smooth={true} duration={1000}>
+          <li>Skill</li>
+        </Link>
+        <Link to="skill" smooth={true} duration={1000}>
+          <li>Project</li>
+        </Link>
+        <Link to="contact" smooth={true} duration={1000}>
+          <li>Contact</li>
+        </Link>
         <a
           href="https://drive.google.com/file/d/1DfQVOy8uxb6SM5BcvMyHbFmBAQJRYKrb/view?usp=sharing"
           target="_blank"

@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <div id='contact' className='connect'>
             <div className='container'>
-            <h1>Let's Connect</h1>
+            <h1>Contact Me</h1>
             <p>Drop me a mail at <strong>hemantjayas03@gmail.com</strong></p>
             <div className="links">
                 <a href="https://github.com/hemantjayas" target="_blank" rel="noreferrer"><i class="fab fa-github"></i></a>

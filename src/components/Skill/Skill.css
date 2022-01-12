@@ -1,11 +1,11 @@
 #skill {
-  width: 73%;
+  width: 90%;
   text-align: center;
   margin: 30px auto;
   padding: 20px;
   background-color: #444242;
   box-sizing: border-box;
-  box-shadow: 2px 2px 10px #403f
+  box-shadow: 2px 2px 10px #5a5759;
 }
 #tools {
   display: flex;
@@ -17,17 +17,17 @@
   box-sizing: border-box;
 }
 #tools div {
-  border: 2px solid black;
-    border-radius: 5px;
-    width: 100px;
-    height: 100px;
-    font-size: 20px;
-    color: white;
-    padding: 20px;
-    background-color: rgb(71, 155, 189);
-}
-h1{
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
   color: white;
+  padding: 20px;
+  background-color: rgb(107 112 112);
+}
+#skill h1 {
   margin: 10px;
 }
-
+h1 {
+  color: white;
+}

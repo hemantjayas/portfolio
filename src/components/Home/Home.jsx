@@ -5,6 +5,10 @@ export default function Home() {
     
    
     return (
+        <>
+        <div id="nav">
+
+        </div>
         <div id='home'>
             <img src={img} alt="" />
             <div className='name'>
@@ -14,6 +18,7 @@ export default function Home() {
                 <a href="https://drive.google.com/file/d/1DfQVOy8uxb6SM5BcvMyHbFmBAQJRYKrb/view?usp=sharing" target="_blank" rel="noreferrer"><button>Download CV</button></a>
             </div>
         </div>
+        </>
     )
 }
 

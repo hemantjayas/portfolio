@@ -4,7 +4,7 @@ import("./About.css");
 export default function About() {
   return (
     <div id="about">
-      <h1>let Me Introduce Myself</h1>
+      <h1>About Me</h1>
       <p>I love to create beautiful and efficient websites for my customers.</p>
       <p>
         My field of Interest's are building new Web Technologies and Products
