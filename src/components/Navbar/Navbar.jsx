@@ -15,19 +15,19 @@ export default function Navbar() {
         </label>
       </div>
       <ul className="nav-ul">
-        <Link to="home" smooth={true} duration={1000}>
+        <Link to="home" smooth={true} duration={500}>
           <li>Home</li>
         </Link>
-        <Link to="about" smooth={true} duration={1000}>
+        <Link to="about" smooth={true} duration={500}>
           <li>About</li>
         </Link>
-        <Link to="skill" smooth={true} duration={1000}>
+        <Link to="skill" smooth={true} duration={500} >
           <li>Skill</li>
         </Link>
-        <Link to="skill" smooth={true} duration={1000}>
+        <Link to="project" smooth={true} duration={500}>
           <li>Project</li>
         </Link>
-        <Link to="contact" smooth={true} duration={1000}>
+        <Link to="contact" smooth={true} duration={500}>
           <li>Contact</li>
         </Link>
         <a
