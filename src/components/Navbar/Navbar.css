@@ -9,7 +9,8 @@
   z-index: 1;
   box-sizing: border-box;
   color: white;
-  background-color: rgb(48, 47, 47);
+  background-image: linear-gradient(45deg, #0784a7, #000000);
+  background-size: 200% 200%;
 }
 .navbar ul {
   display: flex;
@@ -31,14 +32,14 @@
     display: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
   .navbar {
     padding: 0 20px;
   }
   .navbar ul {
-    background-color: rgb(133, 129, 129);
+    background-color: rgb(4 83 106);
     position: fixed;
-    top: 80px;
+    top: 60px;
     left: -50%;
     height: 100vh;
     flex-direction: column;
