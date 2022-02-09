@@ -11,10 +11,10 @@ export default function About() {
           <img src={coding} alt="" />
         </div>
         <div>
-          <p>I am a Full-Stack Web Developer from India. Self motivated and curious with a keen interest in building user friendly products.  My Field of Interests are Building new Web Technologies, Products
-            and also in Areas Related to Deep Learning. I Love to Create Beautiful and Efficient Websites for Users.
-            I Apply my Passion for Developing Products with Node.js, Modern
-            Javascript Library, Frameworks like React.js and Next.js</p>
+          <p>I am a Full-stack web developer from India. Self motivated and curious with a keen interest in building user friendly products.  My field of interests are building new web technologies, products
+            and also in areas related to deep learning. I love to create beautiful and efficient websites for users.
+            I keenly apply my knowledge for developing products with node.js, modern
+            Javascript Library, mongoDB, express and frameworks like react.js</p>
           
         </div>
       </div>
